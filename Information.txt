@@ -1,0 +1,30 @@
+# Machine-Learning-Model-for-Weather-Forecasting
+Purpose of this project is to predict the temperature using different algorithms like linear regression, random forest regression, and Decision tree regression. The output value should be numerically based on multiple extra factors like maximum temperature, minimum temperature, cloud cover, humidity, and sun hours in a day, precipitation, pressure and wind speed.
+
+# DATASETS
+
+I successfully obtained the datasets required for building the weather prediction machine learning model from the reliable source http://www.visualcrossing.com/.
+
+# USE OF ALGORITHMS: 
+
+There are different methods of foreseeing temperature utilizing Regression and a variety of Functional Regression, in which datasets are utilized to play out the counts and investigation. To Train, the calculations 80% size of information is utilized and 20% size of information is named as a Test set. For Example, if we need to anticipate the temperature of Telangana, India utilizing these Machine Learning calculations,
+
+# METHODOLOGY
+
+The main target of this dataset can be used to predict the weather for the next day or week with huge amounts of data provided in the dataset. Furthermore, this data can also be used to make visualization which would help to understand the impact of global warming over the various aspects of the weather like precipitation, humidity, temperature, etc. 
+
+In this project, we are concentrating on the temperature prediction of telangana State with the help of various machine learning algorithms and various regressions. By applying various regressions on the historical weather dataset of Telangana State we are predicting the temperature like first we are applying Multiple Linear regression, then Decision Tree regression, and after that, we are applying Random Forest Regression.
+
+
+# Multiple Linear Regression: 
+This regression model has high mean absolute error, hence turned out to be the least accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
+
+
+# Decision Tree Regression: 
+This regression model has medium mean absolute error, hence turned out to be the little accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
+
+
+
+# Random Forest Regression: 
+This regression model has low mean absolute error, hence turned out to be the more accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
+
